@@ -1,0 +1,110 @@
+Downloaded list of artists is sorted in ascending order:
+1     24kGoldn
+2     AJR  
+3     Ariana Grande
+4     Arizona Zervas
+5     Ashnikko
+6     Ava Max
+7     Bea Miller
+8     Big Sean
+9     Billie Eilish
+10    blackbear
+11    BLACKPINK
+12    BTS  
+13    BØRNS
+14    Cardi B
+15    Chris Brown
+16    Chris Stapleton
+17    City Girls
+18    Clairo
+19    Conan Gray
+20    Curtis Waters
+21    DaBaby
+22    Dan + Shay
+23    Diplo
+24    DJ Khaled
+25    Doja Cat
+26    Don Toliver
+27    Drake
+28    Dua Lipa
+29    Eminem
+30    Fleetwood Mac
+31    Future
+32    G Herbo
+33    Gabby Barrett
+34    Grouplove
+35    Gunna
+36    Harry Styles
+37    iann dior
+38    Internet Money
+39    J Balvin
+40    J. Cole
+41    Jack Harlow
+42    James Arthur
+43    Jason Derulo
+44    Jawsh 685
+45    Joel Corry
+46    Joji 
+47    JP Saxe
+48    Juice WRLD
+49    Justin Bieber
+50    Kane Brown
+51    Kendrick Lamar
+52    Labrinth
+53    Lady Gaga
+54    Lee Brice
+55    Lewis Capaldi
+56    Lil Baby
+57    Lil Durk
+58    Lil Mosey
+59    Lil Peep
+60    Lil Tecca
+61    Lil Uzi Vert
+62    Luke Combs
+63    Machine Gun Kelly
+64    Maluma
+65    Marshmello
+66    Megan Thee Stallion
+67    Miley Cyrus
+68    Money Man
+69    Moneybagg Yo
+70    Morgan Wallen
+71    Mustard
+72    NLE Choppa
+73    Noah Cyrus
+74    Polo G
+75    Pop Smoke
+76    Post Malone
+77    Powfu
+78    Ritt Momney
+79    Rod Wave
+80    Roddy Ricch
+81    SAINt JHN
+82    salem ilese
+83    Sam Smith
+84    Saweetie
+85    Sech 
+86    StaySolidRocky
+87    Surf Mesa
+88    Surfaces
+89    SZA  
+90    Tame Impala
+91    Tate McRae
+92    Taylor Swift
+93    The Kid LAROI
+94    The Killers
+95    The Neighbourhood
+96    THE SCOTTS
+97    The Weeknd
+98    Tones And I
+99    Topic
+100   Travis Scott
+101   Trevor Daniel
+102   Trippie Redd
+103   Tyla Yaweh
+104   Vedo 
+105   Wallows
+106   WhoHeem
+107   XXXTENTACION
+108   YoungBoy Never Broke Again
+109   ZAYN 
